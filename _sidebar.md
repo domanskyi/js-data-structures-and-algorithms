@@ -1,2 +1,3 @@
 - [Home](/)
+- [1. Big O Notation](1-big-o-notation/README.md)
 - [Sorting Algorithms](sorting/README.md)
