@@ -1,3 +1,4 @@
 - [Home](/)
 - [1. Big O Notation](1-big-o-notation/README.md)
+- [2. Analyzing Performance of Arrays and Objects](2-analyzing-performance-of-arrays-and-objects/README.md)
 - [TODO](todo.md)
