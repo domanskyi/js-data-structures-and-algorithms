@@ -1,4 +1,6 @@
 - [Home](/)
 - [1. Big O Notation](1-big-o-notation/README.md)
 - [2. Analyzing Performance of Arrays and Objects](2-analyzing-performance-of-arrays-and-objects/README.md)
+- [3. Problem Solving Approach](3-problem-solving-approach/README.md)
+- [4. Problem Solving Patterns](4-problem-solving-patterns/README.md)
 - [TODO](todo.md)
