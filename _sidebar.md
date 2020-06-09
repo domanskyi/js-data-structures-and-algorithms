@@ -3,4 +3,5 @@
 - [2. Analyzing Performance of Arrays and Objects](2-analyzing-performance-of-arrays-and-objects/README.md)
 - [3. Problem Solving Approach](3-problem-solving-approach/README.md)
 - [4. Problem Solving Patterns](4-problem-solving-patterns/README.md)
+- [5. Recursion](5-recursion/README.md)
 - [TODO](todo.md)
