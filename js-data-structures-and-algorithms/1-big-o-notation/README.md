@@ -51,7 +51,7 @@ In the first solution we need to:
 
 ## What Big O actually is
 
-![Big O functions graph](../_images/big-o-notation.jpg)
+![Big O functions graph](../../../_images/big-o-notation.jpg)
 
 Is is a way to formalize fuzzy counting. Way to compare how algorithm runtime changes due to input _(relation between inputs and time)_
 
