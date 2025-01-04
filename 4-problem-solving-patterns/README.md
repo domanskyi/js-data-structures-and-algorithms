@@ -44,7 +44,6 @@ const countUniqueValues = (arr = []) => {
             ++pointer
             arr[pointer] = arr[i]
         }
-        
     }
 
     return ++pointer
